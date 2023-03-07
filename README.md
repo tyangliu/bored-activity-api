@@ -1,0 +1,1 @@
+# Bored Activity API
